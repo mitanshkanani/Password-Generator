@@ -1,0 +1,52 @@
+h1{
+    border-color: black;
+    border-radius: 4px; 
+    text-align: center;
+    justify-content: center;
+    display: flex;
+}
+h1 p{
+    color: aliceblue;
+    background-color: black;
+    height: 55px;
+    width: 110px;
+}
+.header{
+    padding: 2em;
+    
+}
+
+input[type=number].spinner::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+.main{
+    justify-content:center;
+    display: flex;
+    text-align: center;
+}
+
+#main2 label,#main2 input{
+    display:block;
+    margin-bottom: 10px;
+}
+
+button{
+    text-align: center;
+    justify-content: center;
+    display: flex;
+}
+.pass{
+    justify-content: center;
+    display: flex;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.pro{
+    justify-content: center;
+    text-align: center;
+    display: flex;
+}
